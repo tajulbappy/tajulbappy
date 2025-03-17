@@ -4,7 +4,7 @@
 
 I'm a passionate **Front-End Web Developer** working towards becoming a **Full-Stack Developer**. I love building interactive, responsive websites and exploring new technologies.
 
-Skills: HTML / CSS / BOOTSTRAP / TS / JS
+Skills: HTML / CSS / BOOTSTRAP / TypeScript / JavaScript / React JS
 
 - 🔭 I’m currently working on SELF-EMPLOYED 
 - 🌱 I’m currently learning REACT, WORDPRESS
