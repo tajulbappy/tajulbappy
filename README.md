@@ -12,8 +12,8 @@ Skills:
 ✅ Tailwind CSS / Bootstrap 
 ✅ Git
 
-- 🔭 I’m currently working on SELF-EMPLOYED 
-- 🌱 I’m currently learning REACT, WORDPRESS
+- 🔭 I’m currently working on self-employed 
+- 🌱 I’m currently learning next js
 - 📫 How to reach me: bappy042@gmail.com 
 
 
