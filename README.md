@@ -28,7 +28,7 @@ Skills:
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/tajulbappy/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/tajulbappy)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tajulbappy)  
 
