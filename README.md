@@ -1,15 +1,20 @@
-# Hello, I'm Tajul Islam
+# Hi, I'm Tajul 👋
 #### Front-End Web Developer
 ![web developer](https://github.com/tajulbappy/webdeveloper/blob/main/Tasnuva_PP.jpg)
 
-I'm a passionate **Front-End Web Developer** working towards becoming a **Full-Stack Developer**. I love building interactive, responsive websites and exploring new technologies.
+I'm a passionate **Front-End React Developer** working towards becoming a **Full-Stack Developer**. I love building interactive, responsive websites, user-friendly interface with clean code and exploring new technologies.
 
-Skills: HTML / CSS / BOOTSTRAP / TypeScript / JavaScript / React JS
+Skills:
+✅ React js 
+✅ JavaScript 
+✅ TypeScript 
+✅ HTML / CSS / SASS 
+✅ Tailwind CSS / Bootstrap 
+✅ Git
 
 - 🔭 I’m currently working on SELF-EMPLOYED 
 - 🌱 I’m currently learning REACT, WORDPRESS
 - 📫 How to reach me: bappy042@gmail.com 
-- ⚡ Fun fact: learn through funny 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tajulbappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tajul Islam (Bappy)  
