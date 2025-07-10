@@ -1,5 +1,5 @@
 # Hi, I'm Tajul 👋
-#### Front-End Web Developer
+#### Front-End React Developer
 ![web developer](https://github.com/tajulbappy/webdeveloper/blob/main/Tasnuva_PP.jpg)
 
 I'm a passionate **Front-End React Developer** working towards becoming a **Full-Stack Developer**. I love building interactive, responsive websites, user-friendly interface with clean code and exploring new technologies.
