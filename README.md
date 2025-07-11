@@ -5,17 +5,20 @@
 
 I'm a passionate **Front-End React Developer** working towards becoming a **Full-Stack Developer**. I love building interactive, responsive websites, user-friendly interface with clean code and exploring new technologies.
 
-Skills:
-✅ React js 
-✅ JavaScript 
-✅ TypeScript 
-✅ HTML / CSS / SASS 
+**Skills:**
+
+✅ HTML / CSS / JS 
+
+✅ React JS
+
 ✅ Tailwind CSS / Bootstrap 
+
+✅ TypeScript
+
+✅ SaSS
+
 ✅ Git
 
-- 🔭 I’m currently working on self-employed 
-- 🌱 I’m currently learning next js
-- 📫 How to reach me: bappy042@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tajulbappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tajul-islam-85653534//)  
