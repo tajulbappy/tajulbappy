@@ -38,14 +38,6 @@ I'm a passionate frontend developer from Dhaka, Bangladesh, specializing in Reac
 - � Available for freelance projects
 - 🚀 Open to full-time positions with flexible arrangements
 
-## 📈 GitHub Stats
-
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajulbappy&show_icons=true&locale=en&layout=compact" alt="tajulbappy" /></p>
 
