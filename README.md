@@ -1,6 +1,6 @@
 ## Hi, I'm Tajul Islam 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)![Tajul Islam](https://github.com/user-attachments/assets/9173516c-ecf2-472e-9fa8-7c95fa4d9d64)
+![Tajul Islam](https://github.com/user-attachments/assets/9173516c-ecf2-472e-9fa8-7c95fa4d9d64)
 
 
 
@@ -40,13 +40,19 @@ I'm a passionate frontend developer from Dhaka, Bangladesh, specializing in Reac
 
 ## 📈 GitHub Stats
 
+
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+
+
+
+
