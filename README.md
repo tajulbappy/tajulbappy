@@ -45,7 +45,7 @@ I'm a passionate frontend developer from Dhaka, Bangladesh, specializing in Reac
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajulbappy/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-tajulbappy.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://tajulbappy.netlify.app/)
 
 
 
