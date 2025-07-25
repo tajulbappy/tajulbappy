@@ -9,7 +9,7 @@
 I'm a passionate frontend developer from Dhaka, Bangladesh, specializing in React.js and modern web technologies. I'm on a journey to become a full-stack developer and love building responsive, user-friendly web applications.
 
 - 🔭 Currently working on: IT Firm
-- 🌱 Currently learning: Node.js, Express, MongoDB
+- 🌱 Currently learning: TypeScript, Next.js, Node.js, Express, MongoDB
 - 👯 Looking to collaborate on: Open source projects or freelance opportunities
 - 💬 Ask me about: React, JavaScript, or frontend development
 - 📫 How to reach me: bappy042@gmail.com
@@ -44,9 +44,8 @@ I'm a passionate frontend developer from Dhaka, Bangladesh, specializing in Reac
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajulbappy/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-tajulbappy.netlify.app/)
 
 
 
