@@ -1,6 +1,6 @@
 ## Hi, I'm Tajul Islam 👋
 
-![Tajul Islam](https://github.com/user-attachments/assets/9173516c-ecf2-472e-9fa8-7c95fa4d9d64)
+![github-banner2](https://github.com/user-attachments/assets/c75a306e-3cdf-4074-9d5c-8ff0c215c3c6)
 
 
 
@@ -23,6 +23,7 @@ I'm a passionate frontend developer from Dhaka, Bangladesh, specializing in Reac
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ### CSS Frameworks & Preprocessors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
