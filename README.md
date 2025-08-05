@@ -1,8 +1,7 @@
 ## Hi, I'm Tajul Islam 👋
 
-![github-banner2](https://github.com/user-attachments/assets/c75a306e-3cdf-4074-9d5c-8ff0c215c3c6)
 
-
+<img width="1584" height="396" alt="github" src="https://github.com/user-attachments/assets/8d0f4597-5164-4f35-8b2c-2c125a901821" />
 
 ### Frontend React Developer | Aspiring Full Stack Developer
 
