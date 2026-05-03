@@ -3,15 +3,16 @@
 
 <img width="1584" height="396" alt="github" src="https://github.com/user-attachments/assets/8d0f4597-5164-4f35-8b2c-2c125a901821" />
 
-### Frontend React Developer | Aspiring Full Stack Developer
+### MERN Stack Developer | React • Node • MongoDB | Freelance & Remote Ready
 
-I'm a passionate frontend developer from Dhaka, Bangladesh, specializing in React.js and modern web technologies. I'm on a journey to become a full-stack developer and love building responsive, user-friendly web applications.
+I build full-stack web applications using MongoDB, Express.js, React, and Node.js.  
+I focus on creating scalable, responsive, and user-friendly solutions for real-world problems. 
 
-- 🔭 Currently working on: IT Firm
-- 🌱 Currently learning: TypeScript, Next.js, Node.js, Express, MongoDB
-- 👯 Looking to collaborate on: Open source projects or freelance opportunities
-- 💬 Ask me about: React, JavaScript, or frontend development
-- 📫 How to reach me: bappy042@gmail.com
+💼 I help businesses build:
+- E-commerce platforms  
+- Admin dashboards  
+- REST APIs  
+- Full-stack web applications
 
 
 ## 🛠️ Tech Stack
