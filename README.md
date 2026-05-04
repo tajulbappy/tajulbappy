@@ -1,7 +1,7 @@
 ## Hi, I'm Tajul Islam 👋
 
 
-<img width="1584" height="396" alt="github" src="https://github.com/user-attachments/assets/8d0f4597-5164-4f35-8b2c-2c125a901821" />
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/73eb43a3-94f1-4a6b-915f-543410458408" />
 
 
 
