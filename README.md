@@ -1,4 +1,4 @@
-# Hi, I'm Tajul Islam 👋
+## Hi, I'm Tajul Islam 👋
 
 
 <img width="1584" height="396" alt="github" src="https://github.com/user-attachments/assets/8d0f4597-5164-4f35-8b2c-2c125a901821" />
@@ -9,6 +9,7 @@
 
 I build full-stack web applications using MongoDB, Express.js, React, and Node.js.
 I specialize in creating full-stack solutions that are fast, user-friendly, and production-ready.
+
 
 #### 💼 What I Can Do For You
 -	Full MERN Stack Web Application Development
@@ -55,7 +56,10 @@ I specialize in creating full-stack solutions that are fast, user-friendly, and 
 
 
 ---
-
+#### 📩 Open for:
+✔ Freelance projects  
+✔ Remote jobs  
+✔ Collaboration  
 
 #### 🤝 Let's Connect
 
